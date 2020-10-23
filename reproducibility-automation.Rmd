@@ -29,7 +29,7 @@ How to install `make`:
 ```make
 # Read as "mypaper.pdf depends on mypaper.md and figures/fig1.jpg"
 mypaper.pdf: mypaper.md figures/fig1.jpg
-  pandoc mypaper.md -o mypaper.pdf
+  pandoc mypaper.md --citeproc -o mypaper.pdf
 
 # Read as "figures/fig1.jpg depends on analysis/figs.R"
 figures/fig1.jpg: analysis/figs.R 
