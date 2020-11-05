@@ -45,9 +45,8 @@ macOS and Windows:
 
 macOS only:
 
-- Typora
 - [MacDown](https://macdown.uranusjr.com/): Free
-- [Ulysses](https://ulysses.app/): Not free.I use this all the time. Great for larger documents (like articles, dissertations, books)
+- [Ulysses](https://ulysses.app/): Not free. I use this all the time. Great for larger documents (like articles, dissertations, books)
 
 Windows only:
 
